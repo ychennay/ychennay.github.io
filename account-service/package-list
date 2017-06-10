@@ -1,0 +1,7 @@
+com.connoisseur.services
+com.connoisseur.services.config
+com.connoisseur.services.exception
+com.connoisseur.services.manager
+com.connoisseur.services.model
+com.connoisseur.services.repository
+com.connoisseur.services.restcontroller
